@@ -13,6 +13,7 @@ Persist tasks using localStorage
 Installation
 # Clone the repository:
 git clone https://github.com/VasudhaShivane/ToDo-List-App.git
+
 cd TodoApp
 
 # Install dependencies:
