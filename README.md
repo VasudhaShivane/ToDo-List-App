@@ -1,4 +1,4 @@
-TodoApp
+# TodoApp
 TodoApp is a simple task management application built with React, featuring sorting, filtering, and localStorage integration.
 
 Features
