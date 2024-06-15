@@ -1,3 +1,46 @@
+TodoApp
+TodoApp is a simple task management application built with React, featuring sorting, filtering, and localStorage integration.
+
+Features
+Add tasks with validation
+Remove tasks
+Edit task details
+Mark tasks as completed
+Filter tasks by All, Completed, Incomplete
+Sort tasks alphabetically (A-Z, Z-A)
+Persist tasks using localStorage
+
+Installation
+# Clone the repository:
+git clone <repository_url>
+cd TodoApp
+
+# Install dependencies:
+npm install
+or
+yarn install
+
+# Usage
+1) Start the development server:
+npm start
+or
+yarn start
+
+2) Open your browser and navigate to http://localhost:3000 to view the TodoApp.
+3) Use the application to manage your tasks:
+
+Add tasks using the input field and "Add Task" button.
+Edit tasks by clicking the "Edit" button on each task.
+Mark tasks as completed by clicking on them.
+Remove tasks using the "Remove" button.
+Use the filter buttons ("All", "Completed", "Incomplete") to filter tasks based on completion status.
+Use the "Sort by" dropdown menu to sort tasks alphabetically.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
