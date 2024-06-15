@@ -1,0 +1,33 @@
+/* src/styles/TodoList.css */
+.todo-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.todo-item.completed span {
+  text-decoration: line-through;
+}
+
+.todo-item input {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+
+.todo-item button {
+  margin-left: 5px;
+  padding: 5px;
+  background-color: #4caf50;
+  color: rgb(246, 241, 245);
+  border: none;
+  cursor: pointer;
+}

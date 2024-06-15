@@ -1,0 +1,26 @@
+/* src/TodoForm.css */
+
+.todo-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo-form input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px; /* Add spacing between input and button */
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.todo-form button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 16px;
+}

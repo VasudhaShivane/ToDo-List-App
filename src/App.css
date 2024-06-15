@@ -1,6 +1,15 @@
 .App {
   text-align: center;
+  padding-top: 30px;
 }
+
+body {
+  background-color: rgb(48, 78, 87);
+  margin: 0;
+  padding: 5;
+  font-family: Arial, sans-serif;
+}
+
 
 .App-logo {
   height: 40vmin;
